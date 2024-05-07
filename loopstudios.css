@@ -202,6 +202,10 @@ nav ul li:hover::after{
     color: var(--black);
 }
 
+.product-card:hover h3 {
+    color: var(--black);
+}
+
 /*Button*/
 .btn-primary{
     position: absolute;
